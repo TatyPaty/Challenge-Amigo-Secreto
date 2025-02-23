@@ -160,3 +160,23 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.input-activo {
+    border: 2px solid #4CAF50; /* Cambia el borde a verde */
+    background-color: #e8f5e9; 
+}
+
+.boton-activo {
+    background-color: #4CAF50; /* Cambia el color del botón */
+    color: white; 
+}
+
+.input-inactivo {
+    border: 2px solid #333;
+    background-color: #000;
+}
+
+.boton-inactivo {
+    background-color: #333;
+    color: #000;
+}
